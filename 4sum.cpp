@@ -38,8 +38,9 @@ using namespace std;
 
 int main() {
     vector<int>arr={0, 0, 2, 1, 1};
-    int  target = 3;
+    int  target = 1;
     
     return 0;
 }
+
 // } Driver Code Ends
