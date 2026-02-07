@@ -4,6 +4,6 @@ using namespace std;
 
 int main(){
     char c='b';
-    cout<<c+6;
+    cout<<c+7;
 
 }
